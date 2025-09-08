@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @premgk27
-- 👀 I’m interested in Hadoop, Spark, ETL, Data Analytics.
-- 🌱 I’m currently learning Kafka
+- 👀 I’m interested Streaming, Platform engineering, Data engineering.
+- 🌱 I’m currently learning Kubernetes, Fluss
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
